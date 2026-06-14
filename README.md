@@ -49,7 +49,3 @@ git clone <url-do-repositorio>
 ## 📖 Sobre o Projeto
 
 Este projeto foi desenvolvido como atividade prática para reforçar os conhecimentos em Programação Orientada a Objetos, explorando a modelagem de entidades, atributos e comportamentos através da linguagem Java.
-
----
-
-⭐ Projeto desenvolvido por Kauan Almeida para fins de estudo e aprendizado de Programação Orientada a Objetos.
